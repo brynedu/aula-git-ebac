@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Brayan
+-Profissão: Estudante
+-Cidade: Cruz Alta - Rio Grande do Sul
+-O que faz nas horas vaga: Leio livros, escuto música e jogo video-games
+-Feedback sobre o curso Qualidade de Software: Um ótimo curso, com alto nível de conhecimento passado pelos instrutores
+-Feedback sobre a plataforma de estudo da EBAC: Ótima plataforma, fácil, acessível, e boa de manusear
 
 Obrigado!!!
 
